@@ -7,7 +7,9 @@
  #   BRIEF 
  
 Project- House exterior design,
+
 Area-400 sq.m plot,
+
 Location-Hyderabad. 
 
 Designing a contemporary residential exterior with dark accents and a sloping translucent ceiling involves a harmonious blend of modern aesthetics and functionality. 

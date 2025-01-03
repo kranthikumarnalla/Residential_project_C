@@ -19,6 +19,7 @@ Here's a concise overview:
 Architectural Style:
 
  • Modern Minimalism: Characterized by clean lines, geometric forms, and open spaces, this style emphasizes the seamless integration of indoor and outdoor areas.
+ 
 Facade Composition:
 
 Materials:

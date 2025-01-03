@@ -31,6 +31,7 @@ Materials:
 • Concrete Accents: Polished concrete pathways and retaining walls add texture and contrast.
 
 Color Scheme:
+
 • A neutral base palette, such as shades of white or gray, serves as the primary color.
 • Contrasting darker tones, like charcoal or black, are applied to specific architectural features to create depth and emphasis.
 
